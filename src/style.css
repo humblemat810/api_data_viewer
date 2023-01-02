@@ -1,0 +1,15 @@
+.query-button {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+
+.query-text {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+    text-align: center;
+    font-size: 1.2rem;
+    color: grey;
+  }
+  
