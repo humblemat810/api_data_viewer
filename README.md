@@ -1,6 +1,6 @@
 # Quick start
 
-This is not a runnable project as the major company specific information has been removed to preserve business confidentiality.
+This is not a runnable project as the major company specific information has been removed to preserve business confidentiality. Note that the corresponding machine learning model and backend is also authored and deployed by myself.
 
 This project is intended to be an open access/ internal tool and therefore no strict access control was applied. However, to quickly test with simple access control, pm2 library was used and tested
 
